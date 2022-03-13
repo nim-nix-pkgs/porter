@@ -32,11 +32,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647067196,
-        "narHash": "sha256-56Cj1s0e40a0B9GioYChJJjPbjyJYaByLbEpv1ZNq2s=",
+        "lastModified": 1647114164,
+        "narHash": "sha256-L3IcL69GGakv8tMqr/hjEMt1GTvY1D0dMvYxLhqWSUk=",
         "owner": "nim-nix-pkgs",
         "repo": "mutableseqs",
-        "rev": "efe61ba0cd2f3c4af2437ab2385ab45e872ad78c",
+        "rev": "e60e92beb8727d3dd0e3f00775d24836cbd71295",
         "type": "github"
       },
       "original": {
@@ -59,13 +59,20 @@
         "src-mutableseqs-master": "src-mutableseqs-master"
       },
       "locked": {
-        "narHash": "sha256-tJ/GZkilEmaV2MM0sUKD8Wghyl9luZLtVtYOh5amuyE=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647114164,
+        "narHash": "sha256-L3IcL69GGakv8tMqr/hjEMt1GTvY1D0dMvYxLhqWSUk=",
+        "owner": "nim-nix-pkgs",
+        "repo": "mutableseqs",
+        "rev": "e60e92beb8727d3dd0e3f00775d24836cbd71295",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "mutableseqs",
+        "type": "github"
       }
     },
     "nixpkgs": {
