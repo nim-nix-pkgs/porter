@@ -11,6 +11,7 @@
   inputs.src-porter-master.ref   = "refs/heads/master";
   inputs.src-porter-master.owner = "iourinski";
   inputs.src-porter-master.repo  = "porter";
+  inputs.src-porter-master.dir   = "";
   inputs.src-porter-master.type  = "github";
   
   inputs."mutableseqs".owner = "nim-nix-pkgs";
